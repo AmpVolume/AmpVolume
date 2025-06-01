@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm @AmpVolume
+# 👋 Hey there! I'm Duncan
 
 Welcome to my corner of the internet! 🚀
 
