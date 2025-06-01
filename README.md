@@ -14,7 +14,7 @@ Welcome to my corner of the internet! 🚀
 ---
 
 ### 🛠️ Tools & Tech I'm Exploring
-![https://yt3.googleusercontent.com/FtoScP7aO_Rfgh6QHJJMb_Xj3Yku17Cu7XY7ymSSxlIgAXybZvTdQ4n9v7BqmeGqXASzxBya8w=s160-c-k-c0x00ffffff-no-rj](https://boot.dev)
+[![Boot.dev](https://cdn.boot.dev/img/logo.png)](https://boot.dev)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
