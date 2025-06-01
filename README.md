@@ -14,7 +14,8 @@ Welcome to my corner of the internet! 🚀
 ---
 
 ### 🛠️ Tools & Tech I'm Exploring
-[![Boot.dev](https://img.shields.io/badge/Learning%20at-Boot.dev-6f42c1?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://boot.dev)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-Learn%20to%20Code-blueviolet?style=flat-square)](https://boot.dev)
+
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
