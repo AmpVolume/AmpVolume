@@ -35,18 +35,17 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 
 ## 📈 GitHub Stats
 
-![Duncan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical)
+![Duncan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact Me (Still working on this)
 
 - 💬 Discord: `yourDiscord#0000`
 - 📧 Email: `youremail@example.com`
 - 🌐 Boot.dev: [boot.dev](https://boot.dev)
 - 🧭 GitHub: [@AmpVolume](https://github.com/AmpVolume)
+- Linkden
 
 ---
 
