@@ -34,6 +34,7 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 ---
 
 ## 📈 GitHub Stats
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical)
 
 ![Duncan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical)
