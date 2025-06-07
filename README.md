@@ -45,7 +45,7 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 - 💬 Discord: `cears666`
 - 📧 Email: `duncandoyon@gmail.com`
 - 🧭 GitHub: [@AmpVolume](https://github.com/AmpVolume)
-- [Linkden](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- 🌐 [Linkden](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ---
 
