@@ -16,7 +16,7 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 
 ---
 
-## 🧠 Learning Platforms
+## 🧠 Learning Platforms That I Use
 
 [![Boot.dev](https://img.shields.io/badge/Learning%20at-Boot.dev-6f42c1?style=flat-square)](https://boot.dev)
 
