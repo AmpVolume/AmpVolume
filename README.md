@@ -38,10 +38,10 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 
 ![Duncan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/dc027bc8-74ce-4dc5-93f1-f8f16d85bc65/thumbnail" >
+ <img src="https://www.boot.dev/u/ampvolume" >
 </p>
-
+<p align="left">
+ 
 ---
 
 ## 📫 Contact Me (Still working on this)
