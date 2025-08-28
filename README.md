@@ -34,8 +34,11 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 ---
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical) ![Duncan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical)
-https://www.boot.dev/u/ampvolume 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical) 
+![Duncan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/dc027bc8-74ce-4dc5-93f1-f8f16d85bc65/thumbnail" >
+</p>
  
 ---
 
