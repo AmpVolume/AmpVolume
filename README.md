@@ -34,12 +34,21 @@ I'm a self-taught developer on a journey to build awesome things and learn every
   </tr>
 </table>
 
-
+<p align="center">
+  <a href="https://www.boot.dev/u/ampvolume">
+    <img src="https://api.boot.dev/v1/users/public/dc027bc8-74ce-4dc5-93f1-f8f16d85bc65/thumbnail" alt="Boot.dev Profile" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/dc027bc8-74ce-4dc5-93f1-f8f16d85bc65/thumbnail" >
+  <a style="text-decoration: none; color: #4CAF50; font-weight: bold;">
+    ⬆️⬆️⬆️Click on my profile image and check out my stats⬆️⬆️⬆️
+  </a>
 </p>
- 
+
+
+
+
 ---
 
 ## 🛠️ Tools & Tech I'm Exploring
