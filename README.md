@@ -8,7 +8,7 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 ## 🔍 About Me
 
 - 👀 I’m interested in **web development**, **game design**, and **open-source projects**
-- 🌱 I’m currently learning **JavaScript**, **Python**, and how to build cool stuff with **HTML/CSS**
+- 🌱 I’m currently learning **Artificial Inellagence**, **Machine Learning**, and **Data/Computer Sceience**
 - 💞️ I’m open to collaborating on beginner-friendly and fun coding projects
 - 📫 Reach me on **Discord**, **Email**, or right here on GitHub
 - 😄 Pronouns: *he/him*
