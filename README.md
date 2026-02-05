@@ -19,6 +19,8 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 ## 🧠 Learning Platforms That I Use
 
 [![Boot.dev](https://img.shields.io/badge/Learning%20at-Boot.dev-6f42c1?style=flat-square)](https://boot.dev)
+[![Codédex Courses](https://img.shields.io/badge/Codédex%20Courses-Explore-blue?style=flat)](https://www.codedex.io/courses)
+
 
 ---
 
