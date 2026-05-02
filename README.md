@@ -24,14 +24,20 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 
 
 ---
+## 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmpVolume&theme=react-dark" />
+
+<img src="https://streak-stats.demolab.com?user=AmpVolume&theme=radical" />
+
 ## 📈 GitHub Stats
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical&card_width=400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical&card_width=400" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
