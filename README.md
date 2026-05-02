@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Duncan (aka @AmpVolume)
+# 👋 Hey there! I'm Duncan Doyon (aka @AmpVolume)
 
 Welcome to my corner of the internet! 🚀  
 I'm a self-taught developer on a journey to build awesome things and learn every step of the way.
@@ -24,7 +24,6 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 
 
 ---
-
 ## 📈 GitHub Stats
 <table align="center">
   <tr>
@@ -64,11 +63,13 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-## 📫 Contact Me (Still working on this)
+## 📫 Contact Me Through
 
 - 💬 Discord: `cears666`
 - 🧭 GitHub: [@AmpVolume](https://github.com/AmpVolume)
 - 🌐 [Linkden](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- 📧 Email: duncandoyon@gmail.com / duncandoyon.da@gmail.com
+I check these accounts often so if you need help with coding and have a project please consider me for thr role.
 
 ---
 
