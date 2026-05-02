@@ -87,7 +87,7 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 - 🧭 GitHub: [@AmpVolume](https://github.com/AmpVolume)
 - 🌐 [Linkden](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - 📧 Email: duncandoyon@gmail.com / duncandoyon.da@gmail.com
-I check these accounts often so if you need help with coding and have a project please consider me for thr role.
+- I check these accounts often so if you need help with coding and have a project please consider me for thr role.
 
 ---
 
