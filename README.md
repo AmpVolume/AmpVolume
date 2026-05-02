@@ -35,14 +35,13 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 <table align="center">
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical&hide_border=true" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
     </td>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical&hide_border=true" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🧠 Boot.dev Profile
