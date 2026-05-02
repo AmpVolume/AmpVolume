@@ -49,7 +49,7 @@ I'm a self-taught developer on a journey to build awesome things and learn every
   </tr>
 </table>
 --->
-
+----
 ## 🧠 Boot.dev Profile
 
 <p align="center">
