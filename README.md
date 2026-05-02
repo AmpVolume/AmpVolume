@@ -26,22 +26,19 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 ---
 ## 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmpVolume&theme=react-dark" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmpVolume&theme=react-dark&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=AmpVolume&theme=radical" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AmpVolume&theme=radical&hide_border=true" />
+</p>
 
-## 📈 GitHub Stats
+## 💻 Language Usage
 
-<table align="center">
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=donut&theme=radical&hide_border=true" />
+</p>
 
 ## 🧠 Boot.dev Profile
 
