@@ -32,13 +32,16 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmpVolume&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmpVolume&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ## 🧠 Boot.dev Profile
 
