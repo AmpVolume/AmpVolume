@@ -101,6 +101,18 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 
 ---
 
+## 🎓 My W3Schools Learning Dashboard
+
+<p align="center">
+  <a href="https://www.w3profile.com/AmpVolume/">
+    <img src="./w3schools-dashboard.svg"
+         alt="AmpVolume's W3Schools learning dashboard"
+         width="100%" />
+  </a>
+</p>
+
+[**View my official W3Schools profile →**](https://www.w3profile.com/AmpVolume/)
+
 <!---
 AmpVolume/AmpVolume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
