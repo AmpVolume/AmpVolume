@@ -105,13 +105,11 @@ I'm a self-taught developer on a journey to build awesome things and learn every
 
 <p align="center">
   <a href="https://www.w3profile.com/AmpVolume/">
-    <img src="./w3schools-dashboard.svg"
-         alt="AmpVolume's W3Schools learning dashboard"
-         width="100%" />
+    <img src="https://raw.githubusercontent.com/AmpVolume/W3Schools_Dashboard/main/w3schools-dashboard.svg" alt="My W3Schools Learning Dashboard" width="100%" />
   </a>
 </p>
 
-[**View my official W3Schools profile →**](https://www.w3profile.com/AmpVolume/)
+[View my official W3Schools profile →](https://www.w3profile.com/AmpVolume/)
 
 <!---
 AmpVolume/AmpVolume is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
